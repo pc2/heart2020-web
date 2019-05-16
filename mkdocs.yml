@@ -1,0 +1,11 @@
+site_name: International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART2020)
+
+plugins: []
+theme:
+        name: 'material'
+        favicon: 'img/favicon.ico'
+        logo: 'img/pc2-logo.png'
+        palette:
+                primary: 'Blue Grey'
+                accent: 'cyan'
+
