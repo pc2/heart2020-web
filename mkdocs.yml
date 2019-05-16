@@ -3,6 +3,7 @@ site_name: International Symposium on Highly Efficient Accelerators and Reconfig
 plugins: []
 theme:
         name: 'material'
+        font: false
         favicon: 'img/favicon.ico'
         logo: 'img/pc2-logo.png'
         palette:
