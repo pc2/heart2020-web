@@ -1,4 +1,14 @@
-site_name: International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART2020)
+site_name: HEART 2020 at PC²
+site_description: "HEART 2020"
+
+nav:
+        - Home: index.md
+        - Program: program.md
+        - Keynote Speakers: keyspeaker.md
+        - Workshop: workshop.md
+        - Contact: contact.md
+        - Site notice: impressum.md  
+
 
 plugins: []
 theme:
@@ -6,6 +16,7 @@ theme:
         font: false
         favicon: 'img/favicon.ico'
         logo: 'img/pc2-logo.png'
+        language: 'en'
         palette:
                 primary: 'Blue Grey'
                 accent: 'cyan'

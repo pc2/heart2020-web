@@ -1,5 +1,5 @@
-# Welcome to HEART 2020 at PC²
-![HNF von Vorne](img/HNF-Aussen_1920x570.jpg)
+# International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART2020)
+![HNF von Vorne](img/home-header.png)
 
 # Overview
 
