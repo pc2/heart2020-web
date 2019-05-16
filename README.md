@@ -1,3 +1,3 @@
-# HEART2020-Website
+# HEART2020 Development
 
-This repository is used for hosting the _HEART2020_ webpage available under (ToDo)
+Branch used for creating the webpage, not publishing it
