@@ -10,14 +10,15 @@ nav:
         - Site notice: impressum.md  
 
 
-plugins: []
 theme:
+        custom_dir: 'theme/'
         name: 'material'
         font: false
         favicon: 'img/favicon.ico'
         logo: 'img/pc2-logo.png'
         language: 'en'
         palette:
-                primary: 'Blue Grey'
+                primary: 'deep purple'
                 accent: 'cyan'
+plugins: []
 
