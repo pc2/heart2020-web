@@ -11,14 +11,16 @@ nav:
 
 
 theme:
-        custom_dir: 'theme/'
-        name: 'material'
+        name: null
+        custom_dir: material
         font: false
+        feature:
+                tabs: false
         favicon: 'img/favicon.ico'
         logo: 'img/pc2-logo.png'
-        language: 'en'
+        language: en
         palette:
-                primary: 'deep purple'
-                accent: 'cyan'
+                primary: upbprimary
+                accent: upbaccent
 plugins: []
 
