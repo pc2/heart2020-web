@@ -1,5 +1,5 @@
-# International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART2020)
-![Location of the Symposium](img/home-header.png)
+# International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART 2020)
+![Location of the Symposium](img/home-header.jpg)
 
 # Overview and Venue
 

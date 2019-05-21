@@ -3,9 +3,15 @@ site_description: "HEART 2020"
 
 nav:
         - Home: index.md
+        - Committees: committee.md
         - Program: program.md
         - Keynote Speakers: keyspeaker.md
         - Workshop: workshop.md
+        - Paderborn University: infos_upb.md
+        - Paderborn: infos_pb.md
+        - Venue: venue.md
+        - Accommodation: accommodation.md
+        - Travel: travel.md
         - Contact: contact.md
         - Site notice: impressum.md  
 
@@ -13,14 +19,19 @@ nav:
 theme:
         name: null
         custom_dir: material
-        font: false
         feature:
                 tabs: false
         favicon: 'img/favicon.ico'
         logo: 'img/pc2-logo.png'
         language: en
+        font:
+                text: Roboto
+                code: Roboto Mono
         palette:
                 primary: upbprimary
                 accent: upbaccent
 plugins: []
+markdown_extensions: []
+ 
+
 
