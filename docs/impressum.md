@@ -8,5 +8,6 @@ Diese Webseite wird auf Servern von [GitHub Inc.](https://github.com/) gehostet.
 
 ## Thanks to:
 
+* Bildmaterial zur Verfügung gestellt vom HNF
 * [MkDocs](https://www.mkdocs.org/)
 * [MkDocs Material Theme](https://github.com/squidfunk/mkdocs-material)
