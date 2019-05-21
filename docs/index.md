@@ -5,4 +5,4 @@
 
 The HEART symposium is an international forum on state-of-the-art research in high-performance and power-efficient computing using accelerator technologies such as FPGAs, GPGPUs, and/or specialized accelerators. The eleventh edition of HEART will take place in Paderborn, DE in June 2020.
 
-The conference will be held at the [Heinz Nixdorf MuseumsForum](https://www.hnf.de/en/home.html) - the worlds largest computer museum.
+The conference will be held at the [Heinz Nixdorf MuseumsForum](https://www.hnf.de/en/home.html) - the worlds largest computer museum. See [Venue](venue.md) for more information.
