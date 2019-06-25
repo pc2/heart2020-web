@@ -20,7 +20,7 @@ Michaela Kemper
 
 Telefon: +49 5251 60-1735
 
-Internet: https://pc2.uni-paderborn.de
+Internet: [https://pc2.uni-paderborn.de](https://pc2.uni-paderborn.de)
 
 Die Universität Paderborn ist eine vom Land NRW getragene, rechtsfähige Körperschaft des Öffentlichen Rechts. Sie wird durch die Präsidentin Prof. Dr. Birgitt Riegraf vertreten.
 
