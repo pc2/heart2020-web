@@ -3,3 +3,9 @@
 * **General Chair:** Christian Plessl (Paderborn University)
 * **Program Chair:** Marco Platzner (Paderborn University)
 * **Program Co-Chair:** Paul Chow (University of Toronto)
+
+## Local organisation committee
+
+* **Finance Chair:** Bernard Bauer
+* **Conference Secretary:** Michaela Kemper
+* **Webmaster:** Nils Winnwa
