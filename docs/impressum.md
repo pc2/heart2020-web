@@ -4,15 +4,22 @@
 
 Adresse:
 Universität Paderborn
-Paderborn Center for parallel Computing
+
+Paderborn Center for Parallel Computing (PC²)
+
 Warburger Str. 100
+
 33098 Paderborn
+
 Deutschland
 
 Kontakt:
 Sekretariat
+
 Michaela Kemper
+
 Telefon: +49 5251 60-1735
+
 Internet: https://pc2.uni-paderborn.de
 
 Die Universität Paderborn ist eine vom Land NRW getragene, rechtsfähige Körperschaft des Öffentlichen Rechts. Sie wird durch die Präsidentin Prof. Dr. Birgitt Riegraf vertreten.
