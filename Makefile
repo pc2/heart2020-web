@@ -6,7 +6,6 @@ deploy: mkdocs.yml
 	git add .
 	git commit -m "Deploy from Makefile"
 	git push
-	cd -
 
 site: mkdocs.yml
 	mkdocs build
