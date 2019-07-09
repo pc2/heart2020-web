@@ -2,7 +2,8 @@
 
 **Notice:** Since the owner and author of this side resides in Germany and is a Germany citizen, the Germany law applies to the entire website. Therefore the privacy policy is presented in German. If you have any questions feel free to contact us.
 
-Adresse:
+**Adresse:**
+
 Universität Paderborn
 
 Paderborn Center for Parallel Computing (PC²)
@@ -13,7 +14,8 @@ Warburger Str. 100
 
 Deutschland
 
-Kontakt:
+**Kontakt:**
+
 Sekretariat
 
 Michaela Kemper
