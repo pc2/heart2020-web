@@ -2,7 +2,7 @@
 
 * **General Chair:** Christian Plessl (Paderborn University)
 * **Program Chair:** Marco Platzner (Paderborn University)
-* **Program Co-Chair:** Paul Chow (University of Toronto)
+* **Program Co-Chair:** Paul Chow (University of Toronto) & Marco Platzner (Paderborn University)
 
 ## Local organisation committee
 

@@ -4,6 +4,7 @@ site_description: "HEART 2020"
 nav:
         - Home: index.md
         - Committees: committee.md
+        - Submission: submission.md
         - Program: program.md
         - Keynote Speakers: keyspeaker.md
         - Workshop: workshop.md
