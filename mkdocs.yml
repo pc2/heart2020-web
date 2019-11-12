@@ -3,6 +3,7 @@ site_description: "HEART 2020"
 
 nav:
         - Home: index.md
+        - Call for Papers: cfp.md
         - Committees: committee.md
         - Submission: submission.md
         - Program: program.md
