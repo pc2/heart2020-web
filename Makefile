@@ -8,5 +8,7 @@ deploy: mkdocs.yml
 	cd $(CURDIR)/../heart2020-web && git add . && git commit && git push
 
 site: mkdocs.yml
-	rm -rf site
+	rm -r site
 	mkdocs build
+	rm -r ../heart2020-web/*
+	cp -va site/* ../heart2020-web

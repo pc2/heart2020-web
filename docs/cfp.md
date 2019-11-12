@@ -4,27 +4,27 @@ The International Symposium on Highly Efficient Accelerators and Reconfigurable 
 
 ## Architectures for Efficient Acceleration
 
-	* Novel systems/platforms based on FPGA, GPU, and other devices 
-	* Heterogeneous processor architectures and systems for high-performance and/or low-power 
-	* Domain-specific architectures
+* Novel systems/platforms based on FPGA, GPU, and other devices 
+* Heterogeneous processor architectures and systems for high-performance and/or low-power 
+* Domain-specific architectures
 
 ## Design Methods and Tools for Efficient Acceleration
 
-	* Programming paradigms, languages, and frameworks 
-	* High-level synthesis and compilers 
-	* Runtime methodologies for heterogeneous systems 
-	* Performance evaluation and analysis 
+* Programming paradigms, languages, and frameworks 
+* High-level synthesis and compilers 
+* Runtime methodologies for heterogeneous systems 
+* Performance evaluation and analysis 
 
 ## Applications and Systems
 
-	* Application examples that benefit from efficient acceleration to a great extent 
-	* Complete systems demonstrating increased energy efficiency and/or performance
-	* Comparisons between accelerator technologies
+* Application examples that benefit from efficient acceleration to a great extent 
+* Complete systems demonstrating increased energy efficiency and/or performance
+* Comparisons between accelerator technologies
 
 In order to set a basis for discussions on the cross-cutting nature of acceleration technology, HEART 2020 will feature two special sessions on highly efficient accelerators in the domains of
 
-	* High-performance Computing / Data Center
-	* Mobile Systems / Internet of Things
+* High-performance Computing / Data Center
+* Mobile Systems / Internet of Things
 
 Prospective authors are invited to submit original contributions as 6-page papers to be considered as regular papers or 4-page papers to be considered as poster papers. Since a double-blind review process will be used, authors should not identify themselves, so author names, affiliations, e-mail addresses and self-references should be blanked out. All contributions must be submitted electronically in PDF format (two columns, US letter size, single-spacing, 10 points for main body text). Accepted papers will be published in ACM post-proceedings and will appear in the ACM digital library. Each accepted paper MUST have at least one author with a regular registration for the manuscript to be included and published in the proceedings. Authors are also expected to attend and present their paper(s) at the symposium.
 
@@ -34,8 +34,9 @@ PhD students working in areas relevant to HEART 2020 are solicited to submit an 
 
 ##Important Dates and Deadlines
 
-	* Paper submission (all categories): February 14, 2020 AOE (no extension)
-	* Acceptance notification: March 27, 2020
-	* Final paper submission: April 24, 2020 
-	* HEART pre-symposium workshops/tutorials: June 17, 2020 
-	* HEART symposium: June 18-19, 2020
+* Paper submission (all categories): **February 14, 2020 AOE (_no extension_)**
+* Acceptance notification: **March 27, 2020**
+* Final paper submission: **April 24, 2020**
+* HEART pre-symposium workshops/tutorials: **June 17, 2020**
+* HEART symposium: **June 18-19, 2020**
+
