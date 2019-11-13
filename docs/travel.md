@@ -18,7 +18,7 @@
 
 ## Address
 
-Fuerstenallee 7, 33102 Paderborn, Germany
+* Fürstenallee 7, 33102 Paderborn, Germany
 
 ## Map
 
