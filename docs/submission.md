@@ -1,3 +1,3 @@
 # Submission
 
-<meta http-equiv = "refresh" content = "2; url = https://pc2.de" />
+<meta http-equiv = "refresh" content = "0; url = https://pc2.de" />
