@@ -26,13 +26,13 @@ In order to set a basis for discussions on the cross-cutting nature of accelerat
 * High-performance Computing / Data Center / Cloud
 * Mobile Systems / Internet of Things / Edge
 
-Prospective authors are invited to submit original contributions as 6-page papers to be considered as regular papers or 4-page papers to be considered as poster papers. Since a double-blind review process will be used, authors should not identify themselves, so author names, affiliations, e-mail addresses and self-references should be blanked out. All contributions must be submitted electronically in PDF format (two columns, US letter size, single-spacing, 10 points for main body text). Accepted papers will be published in ACM post-proceedings and will appear in the ACM digital library. Each accepted paper MUST have at least one author with a regular registration for the manuscript to be included and published in the proceedings. Authors are also expected to attend and present their paper(s) at the symposium.
+Prospective authors are invited to submit original contributions as 6-page papers to be considered as regular papers or 4-page papers to be considered as poster papers. Since a double-blind review process will be used, authors should not identify themselves, so author names, affiliations, e-mail addresses and self-references should be blanked out. All contributions must be submitted electronically in PDF format (two columns, US letter size, single-spacing, 10 point font for main body text). Accepted papers will be published in ACM post-proceedings and will appear in the ACM digital library. Each accepted paper **MUST** have at least one author with a regular registration for the manuscript to be included and published in the proceedings. Authors are also expected to attend and present their paper(s) at the symposium.
 
 ## PhD Forum
 
 PhD students working in areas relevant to HEART 2020 are solicited to submit an extended abstract of up to 2 pages comprising a summary of their research findings, work in progress and/or planned research. The PhD Forum is intended as a platform for PhD students to interact with peers as well as experienced researchers. The forum will be organized as a poster session and will include a 5 minutes oral introduction by each student. The PhD student should be the first author, thesis advisors may be coauthors. Submission will be reviewed to ensure quality and relevance.  Authors of accepted submissions are expected to attend HEART 2020 and present their poster. The accepted extended abstracts will also appear in the conference proceedings.
 
-##Important Dates and Deadlines
+## Important Dates and Deadlines
 
 * Paper submission (all categories): **February 14, 2020 AOE (_no extension_)**
 * Acceptance notification: **March 27, 2020**
