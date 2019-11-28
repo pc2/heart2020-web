@@ -20,8 +20,10 @@ All submitted papers:
 * Must be submitted electronically in PDF format (two columns, US letter size, single spacing, 10 point font for the main body text)
 * Must have at least one author with a regular registration for the manuscript to be included and published in the proceedings
 
+Submitting the paper to a preprint service (e.g. arXiv) before submitting to the HEART 2020 conference is _explicitly allowed_ and will not be considered as violation of the double blind review process. The version submitted to HEART must however be blinded and anonymized.
+
 Accepted papers will be published in ACM post-proceedings and will appear in the ACM digital library.
 
 ## Paper Submission
 
- [Each paper must be submitted via EasyChair](https://www.easychair.org/conferences/conference?conf=heart-2020)
+[Each paper must be submitted via EasyChair](https://www.easychair.org/conferences/?conf=heart-2020)
