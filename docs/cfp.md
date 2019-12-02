@@ -24,7 +24,7 @@ The International Symposium on Highly Efficient Accelerators and Reconfigurable 
 In order to set a basis for discussions on the cross-cutting nature of acceleration technology, HEART 2020 will feature two special sessions on highly efficient accelerators in the domains of
 
 * High-performance Computing / Data Center / Cloud
-* Mobile Systems / Internet of Things / Edge
+* Mobile Systems / Edge Computing / Internet of Things 
 
 Prospective authors are invited to submit original contributions as 6-page papers to be considered as regular papers or 4-page papers to be considered as poster papers. Since a double-blind review process will be used, authors should not identify themselves, so author names, affiliations, e-mail addresses and self-references should be blanked out. All contributions must be submitted electronically in PDF format (two columns, US letter size, single-spacing, 10 point font for main body text). Accepted papers will be published in ACM post-proceedings and will appear in the ACM digital library. Each accepted paper **MUST** have at least one author with a regular registration for the manuscript to be included and published in the proceedings. Authors are also expected to attend and present their paper(s) at the symposium.
 
