@@ -1,4 +1,4 @@
-# PRELIMINARY Call for Papers
+# Call for Papers
 
 The International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART) is a forum to present and discuss new research on computing systems utilizing acceleration technology. The main theme of HEART is achieving high efficiency with accelerators, which is of utmost importance across a wide spectrum of computing systems. In the high performance computing and data center domains, high efficiency mostly relates to performance, while in the mobile and IoT space research communities think about accelerators more from a power/energy perspective. HEART 2020 will focus on high efficiency as a cross-cutting issue and asks for contributions in the following areas:
 
