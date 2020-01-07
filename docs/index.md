@@ -4,7 +4,7 @@
 
 # LATES UPDATES
 
-* 2020-01-07 Announced keynote speaker: Jack Dongarra ["Using Mixed Precision in Numerical Computiation"](keyspeaker.md))
+* 2020-01-07 Announced keynote speaker: Jack Dongarra ["Using Mixed Precision in Numerical Computation"](keyspeaker.md)
 * 2020-01-06 Final program committee announced (see [Committee](committee.md))
 
 # Overview and Venue
