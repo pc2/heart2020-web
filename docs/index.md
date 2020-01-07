@@ -4,6 +4,7 @@
 
 # LATES UPDATES
 
+* 2020-01-07 HEART is on Twitter now, follow [@heart_symp](https://twitter.com/heart_symp) to keep up to date
 * 2020-01-07 Announced keynote speaker: Jack Dongarra ["Using Mixed Precision in Numerical Computation"](keyspeaker.md)
 * 2020-01-06 Final program committee announced (see [Committee](committee.md))
 
