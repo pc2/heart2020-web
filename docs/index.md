@@ -1,8 +1,9 @@
 # International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies (HEART 2020)
 ![Location of the Symposium](img/home-header.jpg)
 
+Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 
-# LATES UPDATES
+# Latest Updates
 
 * 2020-01-07 HEART is on Twitter now, follow [@heart_symp](https://twitter.com/heart_symp) to keep up to date
 * 2020-01-07 Announced keynote speaker: Jack Dongarra ["Using Mixed Precision in Numerical Computation"](keyspeaker.md)
