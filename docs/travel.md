@@ -1,24 +1,27 @@
-# Travel  / How to reach us
+# How to reach HEART2020
+
+## Conference Venue
+
+### HeinzNixdorf MuseumsForum
+
+* Fürstenallee 7, 33102 Paderborn, Germany
 
 ## Air
 
-* Arriving at **PAD** (Paderborn): 20 min by bus/cab, 5 daily commuting flights to **MUC** (Munich) and **FRA** (Frankfurt)
-* Arriving at **DUS** (Düsseldorf): 2 hour drive with an direct train
+* Arriving at **PAD** (Paderborn): 20 min by bus/cab, 5 daily commuting flights to **MUC** (Munich)
+* Arriving at **DUS** (Düsseldorf): 2 hour drive with by train
 * Arriving at **HAJ** (Hannover):  2 hour drive with an direct train
-* Arriving at **DTM** (Dortmund): 1.30h by train
+* Arriving at **DTM** (Dortmund): 1,50 hour by train
 
 ## Train
 
-* Well connected to high-speed train hubs in Kassel, Hamm and Cologne
+* Well connected to high-speed train hubs in Kassel, Hamm and Bielefeld
 
 ## Car
 
-* Highway A2 (Oberhausen-Berlin)
-* Highway A44 (Aachen-Kassel)
+* Federal Motorway A 33
+* Federal Motorway A 44
 
-## Address
-
-* Fürstenallee 7, 33102 Paderborn, Germany
 
 ## Map
 

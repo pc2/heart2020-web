@@ -32,6 +32,6 @@ theme:
                 accent: upbaccent
 plugins: []
 markdown_extensions: []
- 
+remote_branch: master
 
 
