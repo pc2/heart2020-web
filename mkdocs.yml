@@ -21,7 +21,7 @@ theme:
         custom_dir: material
         feature:
                 tabs: false
-        favicon: 'img/favicon.ico'
+        favicon: 'img/HEART-Logo_square_orange.ico'
         logo: 'img/HEART-Logo_square.png'
         language: en
         font:
