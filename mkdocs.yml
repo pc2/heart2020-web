@@ -22,7 +22,7 @@ theme:
         feature:
                 tabs: false
         favicon: 'img/favicon.ico'
-        logo: 'img/pc2-logo.png'
+        logo: 'img/HEART-Logo_square.png'
         language: en
         font:
                 text: Roboto
