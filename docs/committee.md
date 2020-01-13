@@ -5,6 +5,8 @@
 * **Program Co-Chair:** Marco Platzner, Paderborn University
 * **Publicity Chair:** Kentaro Sano, Riken R-CCS
 * **Tutorial Chair:** Tobias Kenter, Paderborn University
+* **Special Session Chair: HPC, Data Center, Cloud:** Holger Fröning, Heidelberg University
+* **Special Session Chair: Mobile Systems / Edge Computing / Internet of Things:** Smail Nair, University of Valenciennes
 
 ## Local organisation committee
 

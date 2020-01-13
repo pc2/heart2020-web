@@ -5,6 +5,7 @@ Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 
 # Latest Updates
 
+* 2020-01-13 Announced special session chairs. Holger Fröning of Heidelberg University will chair the special session on High-Performance Computing / Data Center / Cloud. Smail Nair, University of Valenciennes will chair the special session on Mobile Systems / Edge Computing / Internet of Things.
 * 2020-01-07 HEART is on Twitter now, follow [@heart_symp](https://twitter.com/heart_symp) to keep up to date
 * 2020-01-07 Announced keynote speaker: Jack Dongarra ["Using Mixed Precision in Numerical Computation"](keyspeaker.md)
 * 2020-01-06 Final program committee announced (see [Committee](committee.md))
