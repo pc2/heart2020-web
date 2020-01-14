@@ -3,18 +3,7 @@ site_description: "HEART 2020"
 
 nav:
         - Home: index.md
-        - Call for Papers: cfp.md
-        - Committees: committee.md
-        - Submission: submission.md
-        - Program: program.md
-        - Keynote Speakers: keyspeaker.md
-        - Workshop: workshop.md
-        - Venue: venue.md
-        - Travel: travel.md
-        - Accommodation: accommodation.md
-        - Contact: contact.md
-        - Site notice: impressum.md  
-
+        - Table-Test: tabletest.md
 
 theme:
         name: null
