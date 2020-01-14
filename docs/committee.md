@@ -6,7 +6,7 @@
 * **Publicity Chair:** Kentaro Sano, Riken R-CCS
 * **Tutorial Chair:** Tobias Kenter, Paderborn University
 * **Special Session Chair: HPC, Data Center, Cloud:** Holger Fröning, Heidelberg University
-* **Special Session Chair: Mobile Systems / Edge Computing / Internet of Things:** Smail Nair, University of Valenciennes
+* **Special Session Chair: Mobile Systems / Edge Computing / Internet of Things:** Smail Niar, Université Polytechnique Hauts-de-France
 
 ## Local organisation committee
 
