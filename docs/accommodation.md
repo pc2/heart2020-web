@@ -4,7 +4,7 @@ The following are hotels that are in near distance to the conference venue and t
 
 We have negotiated special prices with four hotels for a fix contingent of rooms from 17.06. - 20.06.2020.
 
-Please note the Cut-off date from the hotels. The reservation must be received on or before that date to obtain the special rate.
+Please note the cut-off dates from the hotels. The reservation must be received on or before that date to obtain the special rate.
 
 * **Hotel 1: ibis Paderborn City**
 	* *Single room from 17.6-18.06.20:* 79,00 EUR
