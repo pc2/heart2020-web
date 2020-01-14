@@ -63,3 +63,5 @@ Please note the cut-off dates from the hotels. The reservation must be received 
 	* *E-Mail:* <a href="javascript:location='mailto:\u0069\u006e\u0066\u006f\u0040\u0068\u006f\u0074\u0065\u006c\u007a\u0075\u0072\u006d\u0075\u0065\u0068\u006c\u0065\u002e\u0064\u0065';void 0">info[at]hotelzurmuehle.de</a>
 	* <span style="color: red;">**Cut-off date: May, 17th 2020**</span>
 	* <span style="color: red;">**Please note, this hotel has no vacant rooms on June, 17th!**</span>
+
+For further accomodation in Paderborn have a look at this page from the city: <a href="https://www.paderborn.de/microsite/welcome/tourism-culture/tourism-accomodation.php">Accomodation in Paderborn</a>
