@@ -52,7 +52,7 @@ Please note the Cut-off date from the hotels. The reservation must be received o
 
 <br>
 
-* Hotel 4: Hotel zur Mühle
+* **Hotel 4: Hotel zur Mühle**
 	* *Single room incl. breakfast:* 89,00 EUR
 	* *Double room incl. breakfast:* 99,00€ EUR
 	* *Code for getting special price:* HEART 2020
