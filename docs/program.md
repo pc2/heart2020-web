@@ -1,6 +1,6 @@
 # Symposium program
 
-<font color="red">**Please note: This program is tentative and is subject to change.**</font>
+<font color="red">**Please note: This program is tentative and subject to change.**</font>
 
 <br>
 
