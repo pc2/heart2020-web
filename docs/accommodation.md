@@ -20,7 +20,7 @@ Please note the cut-off dates from the hotels. The reservation must be received 
 	* *Fax:* +49 (0) 5251 - 124-888
 	* *E-Mail:* <a href="javascript:location='mailto:\u0068\u0030\u0037\u0031\u0038\u0040\u0061\u0063\u0063\u006f\u0072\u002e\u0063\u006f\u006d';void 0">h0718[at]accor.com</a>
 	* <span style="color: red;">**Cut-off date: April, 8th 2020**</span>
-	* <span style="color: red;"> **Please note, you can only book this hotel through the PC2. Please send an E-Mail to <a href="javascript:location='mailto:\u0068\u0065\u0061\u0072\u0074\u0032\u0030\u0032\u0030\u002d\u0063\u006f\u006e\u0074\u0061\u0063\u0074\u0040\u0075\u006e\u0069\u002d\u0070\u0061\u0064\u0065\u0072\u0062\u006f\u0072\u006e\u002e\u0064\u0065';void 0">heart2020-contact[at]uni-paderborn.de</a>** </span>
+	* <span style="color: red;"> **Please note that this hotel can only be booked through the PC2. Please send an E-Mail to <a href="javascript:location='mailto:\u0068\u0065\u0061\u0072\u0074\u0032\u0030\u0032\u0030\u002d\u0063\u006f\u006e\u0074\u0061\u0063\u0074\u0040\u0075\u006e\u0069\u002d\u0070\u0061\u0064\u0065\u0072\u0062\u006f\u0072\u006e\u002e\u0064\u0065';void 0">heart2020-contact[at]uni-paderborn.de</a>** </span>
 
 <br>
 
