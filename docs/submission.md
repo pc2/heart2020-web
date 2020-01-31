@@ -12,13 +12,14 @@
 
 All submitted papers:
 
-* With 6 pages are considered as _regular papers_
-* With 4 pages are considered as _poster papers_
+* With 6 pages (including references) are considered as _regular papers_
+* With 4 pages (includeing references) are considered as _poster papers_
 * **Should be prepared for double blind review**
 	* Authors should no identify themselves
 	* Author names, affiliations, e-mail addresses and self-references should be blanked out
 * Must be submitted electronically in PDF format (two columns, US letter size, single spacing, 10 point font for the main body text)
 * Must have at least one author with a regular registration for the manuscript to be included and published in the proceedings
+* Must be formatted using the standard [ACM proceedings sigconf style](https://www.acm.org/publications/proceedings-template). Pleae make sure, you use the latest style template, since they have been recently updated. ([LaTeX style](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-master.zip))
 
 Submitting the paper to a preprint service (e.g. arXiv) before submitting to the HEART 2020 conference is _explicitly allowed_ and will not be considered as violation of the double blind review process. The version submitted to HEART must however be blinded and anonymized.
 
