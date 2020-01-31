@@ -21,13 +21,14 @@ Susannah Martin, Training Engineer, Intel Corporation
 This tutorial will introduce the Xilinx Vitis development environment for developing FPGA accelerators for HPC applications. Vitis supports OpenCL, C and C++. RTL design flows are also supported for experienced hardware developers. Each of these flows will be discussed along with the open-source Xilinx Runtime Library and Vitis open-source accelerated libraries.
 The latest available cloud and local hardware will be covered including AWS-F1, Nimbix, and the range of Alveo accelerator boards.
 Topics to be covered:
-    * Xilinx Vitis development framework, design flows, and use cases
-    * AWS, Nimbix, and Alveo boards for FPGA acceleration
-    * Vitis Acceleration libraries
-    * Demonstration and hands-on-experience
-	    - Vitis development flow
-	    - Developing, profiling and optimizing applications for FPGA
-	    - Using Xilinx accelerator hardware locally and in the cloud 
+
+* Xilinx Vitis development framework, design flows, and use cases
+* AWS, Nimbix, and Alveo boards for FPGA acceleration
+* Vitis Acceleration libraries
+* Demonstration and hands-on-experience
+    - Vitis development flow
+    - Developing, profiling and optimizing applications for FPGA
+    - Using Xilinx accelerator hardware locally and in the cloud 
 
 **Requirements:**
 
