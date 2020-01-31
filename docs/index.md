@@ -5,6 +5,7 @@ Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 
 # Latest Updates
 
+* 2020-01-31 Tutorials announced. HEART 2020 will offer two half-day tutorials on developing FPGA accelerators using Xilinx' and Intel's latest high-level design environments (see [Tutorials](tutorials.md))
 * 2020-01-13 Announced special session chairs. Holger Fröning of Heidelberg University will chair the special session on High-Performance Computing / Data Center / Cloud. Smail Niar, Université Polytechnique Hauts-de-France will chair the special session on Mobile Systems / Edge Computing / Internet of Things.
 * 2020-01-07 HEART is on Twitter now, follow [@heart_symp](https://twitter.com/heart_symp) to keep up to date
 * 2020-01-07 Announced keynote speaker: Jack Dongarra ["Using Mixed Precision in Numerical Computation"](keyspeaker.md)
