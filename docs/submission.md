@@ -10,7 +10,9 @@
 
 ## Format & anonymity
 
-All submitted papers:
+The **maximum length of a paper** including references is 6 pages for regular paper and 4 pages for poster papers.
+
+All papers:
 
 * With 6 pages (including references) are considered as _regular papers_
 * With 4 pages (includeing references) are considered as _poster papers_
