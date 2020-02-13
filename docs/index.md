@@ -5,6 +5,7 @@ Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 
 # Latest Updates
 
+* 2020-02-13 Announced keynote speaker: Marilyn Wolf ["The Case for Edge Intelligence"](keyspeaker.md)
 * 2020-01-31 Clarified that ACM sigconf proceedings style shall be used to format papers, see [Submission](submission.md)
 * 2020-01-31 Tutorials announced. HEART 2020 will offer two half-day tutorials on developing FPGA accelerators using Xilinx' and Intel's latest high-level design environments (see [Tutorials](tutorials.md))
 * 2020-01-13 Announced special session chairs. Holger Fröning of Heidelberg University will chair the special session on High-Performance Computing / Data Center / Cloud. Smail Niar, Université Polytechnique Hauts-de-France will chair the special session on Mobile Systems / Edge Computing / Internet of Things.
