@@ -2,8 +2,8 @@
 
 ## Important Dates and Deadlines
 
-* Paper submission (all categories): **February 14, 2020 AOE (_no extension_)**
-* Acceptance notification: **March 27, 2020**
+* Paper submission (all categories): **March 8, 2020 AOE (extended)**
+* Acceptance notification: **April 10, 2020 (extended)**
 * Final paper submission: **April 24, 2020**
 * HEART pre-symposium workshops/tutorials: **June 17, 2020**
 * HEART symposium: **June 18-19, 2020**
