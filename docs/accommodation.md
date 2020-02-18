@@ -6,6 +6,8 @@ We have negotiated special prices with four hotels for a fix contingent of rooms
 
 Please note the cut-off dates from the hotels. The reservation must be received on or before that date to obtain the special rate.
 
+**We highly recommend to book your room very early maybe before you finally confirm your travel to Heart2020. Usually, a hotel room reservation can be canceled free of charge.**
+
 * **Hotel 1: ibis Paderborn City**
 	* *Single room from 17.6-18.06.20:* 79,00 EUR
 	* *Double room from 17.6.-18.6.20:* 89,00 EUR
