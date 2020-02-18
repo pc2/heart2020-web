@@ -3,6 +3,11 @@
 
 Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 
+# Keynotes
+
+* Prof. Jack Dongarra, University of Tennessee, Knoxville, USA: «Using Mixed Precision in Numerical Computation»
+* Prof. Marilyn Wolf, University of Nebraska-Lincoln, USA: «The Case for Edge Intelligence»
+
 # Latest Updates
 
 * 2020-02-17 Submission deadline extended to 8 March 2020
