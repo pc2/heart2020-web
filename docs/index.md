@@ -3,6 +3,24 @@
 
 Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 
+<div style="border: solid 3px red; padding: 10px; color: red; ">
+
+<p style="font-weight: bold; font-size: 150%;">Coronavirus (SARS-CoV-2) Advisory
+</p>
+
+<strong>
+<p>
+In light of the growing concerns regarding the Coronavirus (SARS-CoV-2) pandemic the HEART steering committee, program  chairs and general chair have decided to cancel and postpone the HEART symposium to 2021 in Paderborn.
+</p>
+<p>
+An increasing number of institutions have already issued travel bans to high-risk areas and after the recent surge in infections in Germany, we are afraid that potential attendees of HEART may not be allowed to travel to Germany, or may face non-reimbursable cancellation cost if the symposium would have to be cancelled at a short notice.
+</p>
+<p>
+We are are very sorry that we had to take this serious decision and sincerely apologize for any convenience this may cause but the health of our participants is our top priority.
+</p>
+</strong>
+</div>
+
 # Keynotes
 
 * Prof. Jack Dongarra, University of Tennessee, Knoxville, USA: «Using Mixed Precision in Numerical Computation»
@@ -10,6 +28,7 @@ Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 
 # Latest Updates
 
+* 2020-03-10 Symposium cancelled due to the Coronaviros pandemic
 * 2020-02-17 Submission deadline extended to 8 March 2020
 * 2020-02-17 **We highly recommend to book your room very early maybe before you finally confirm your travel to Heart2020. Usually, a hotel room reservation can be canceled free of charge.**
 * 2020-02-13 Announced keynote speaker: Marilyn Wolf ["The Case for Edge Intelligence"](keyspeaker.md)
