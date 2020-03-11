@@ -5,8 +5,7 @@ Follow us on Twitter: [@heart_symp](https://twitter.com/heart_symp)
 
 <div style="border: solid 3px red; padding: 10px; color: red; ">
 
-<p style="font-weight: bold; font-size: 150%;">Coronavirus (SARS-CoV-2) Advisory
-</p>
+<center><p style="font-weight: bold; font-size: 150%;">Coronavirus (SARS-CoV-2) Advisory</p></center>
 
 <strong>
 <p>
@@ -28,7 +27,7 @@ We are are very sorry that we had to take this serious decision and sincerely ap
 
 # Latest Updates
 
-* 2020-03-10 Symposium cancelled due to the Coronaviros pandemic
+* 2020-03-10 Symposium cancelled due to the Coronavirus pandemic
 * 2020-02-17 Submission deadline extended to 8 March 2020
 * 2020-02-17 **We highly recommend to book your room very early maybe before you finally confirm your travel to Heart2020. Usually, a hotel room reservation can be canceled free of charge.**
 * 2020-02-13 Announced keynote speaker: Marilyn Wolf ["The Case for Edge Intelligence"](keyspeaker.md)
